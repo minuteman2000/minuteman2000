@@ -1,17 +1,16 @@
+## Ben Herbst
+
 ```bash
 $ whoami
-{{Ben Herbst}} — {{Student @ UIC}}
+herbst.ben — student.uic · Chicago, IL
 
 $ cat skills.txt
-{{C/C++, Python, Java}}
-
-$ uptime
-{{uptime_line}}
+C/C++ · Java · Python
 
 $ contact --all
-→ in/{{[linkedin](https://www.linkedin.com/in/benherbst100/)}}
+→ in/{{linkedin}}
 ```
 
 <a href="{{website_url}}">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=600&color={{accent}}&center=false&vCenter=true&width=435&lines={{typing_line_one}};{{typing_line_two}};{{typing_line_three}}" alt="status" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&duration=3000&pause=600&color={{accent}}&center=false&vCenter=true&width=435&lines={{Building something new}};" alt="status" />
 </a>
